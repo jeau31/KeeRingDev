@@ -104,7 +104,7 @@ spike: spike 브랜치
 ```
 feature#1/tomato/login
 hotfix#2/seayurre/fix-social-login
-develop#3/honey/v0.1.12
-chore#4/lemon/update-readme
-chore#5/lemon/style-change
+develop#3/tomato/v0.1.12
+chore#4/seayurre/update-readme
+chore#5/tomato/style-change
 ```
