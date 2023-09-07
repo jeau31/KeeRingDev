@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HomeScreen extends StatefulWidget {
-  const HomeScreen({super.key});
+class MapSearchView extends StatefulWidget {
+  const MapSearchView({super.key});
 
   @override
-  State<HomeScreen> createState() => _HomeScreenState();
+  State<MapSearchView> createState() => _MapSearchView();
 }
 
-class _HomeScreenState extends State<HomeScreen> {
+class _MapSearchView extends State<MapSearchView> {
   void onClick() {
     print('응애');
   }
@@ -70,9 +70,9 @@ class _HomeScreenState extends State<HomeScreen> {
                     children: [
                       IconButton(
                         onPressed: onClick,
-                        icon: const Icon(Icons.restart_alt),
+                        icon: const Icon(Icons.supervised_user_circle),
                       ),
-                      const Text('기록'),
+                      const Text('친구'),
                     ],
                   ),
                   Column(

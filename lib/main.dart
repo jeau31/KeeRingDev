@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:keering_front/screens/MapView/MapSearch/home_screen.dart';
+import 'package:keering_front/screens/MapView/MapSearch/map_search.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: HomeScreen(),
+      home: MapSearchView(),
     );
   }
 }
