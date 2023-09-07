@@ -1,4 +1,3 @@
-//Main.dart
 import 'package:flutter/material.dart';
 import 'package:keering_front/screens/MapView/MapSearch/home_screen.dart';
 
