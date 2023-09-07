@@ -1,8 +1,13 @@
 # keering_front
 
 ## Posting
+ 필요한 포스팅 있으면 정리해두기 ex) 지도 API, 결제 API
+- Flutter 리팩토링 가이드
+https://velog.io/@qkrtnfks128/Flutter-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81refactoring
 
-- 필요한 포스팅 있으면 정리해두기 ex) 지도 API, 결제 API
+- Flutter 페이지 전환
+https://fronquarry.tistory.com/10
+
 
 ## Commit Message Convention
 
@@ -97,8 +102,8 @@ spike: spike 브랜치
 ###  example
 
 ```
-feature#1/cake/login
-hotfix#2/lemon/fix-social-login
+feature#1/tomato/login
+hotfix#2/seayurre/fix-social-login
 develop#3/honey/v0.1.12
 chore#4/lemon/update-readme
 chore#5/lemon/style-change
